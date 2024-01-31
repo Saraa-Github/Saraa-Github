@@ -1,11 +1,11 @@
-###                                       Oi!!! Eu sou a Sara 🌺🍃👋
+###                             
 
 
 
 
 
 
-# 💫 About Me:
+# Oi!!! Eu sou a Sara 🌺🍃👋
 <br>Curso: Sistemas de Informação<br>Idiomas: Português e Inglês<br>Hobbies: Desenvolver Sistemas, tocar piano e estudar<br>Linguagens: HTML5, CSS3, JavaScript, Python....<br>Linguagem favorita: Python 🐍<br>Aprendendo: Java
 
 
