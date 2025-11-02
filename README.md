@@ -5,7 +5,7 @@
 
 
 
-# Oi!!! Eu sou a Sara 🌺🍃👋
+
 <br>Curso: Sistemas de Informação<br>
 
 
